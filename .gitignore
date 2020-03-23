@@ -1,0 +1,6 @@
+*.csv
+*.pyc
+*.swp
+.vscode/
+.idea/
+
